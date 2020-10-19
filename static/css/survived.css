@@ -1,0 +1,55 @@
+.survived_container {
+    border-radius: 35px;
+    margin: 3%;
+    padding: 2%;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-style: groove;
+}
+}
+
+.rev_header{
+	 margin-top: 1%;
+    color: cornflowerblue;
+    font-style: italic;
+}
+
+select, option, .inputText{
+	font-size: 16px;
+    font-family: cursive;
+ 
+}
+
+label{
+	font-size: 16px;
+    font-family: cursive;
+    color: cornflowerblue;
+    margin-top: 10px;
+    margin-bottom: 0px !important;
+}
+
+select, .inputText{
+	    border-radius: 4px;
+}
+
+.inputText{
+	width:50%;
+}
+
+.main-container{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.submit{
+	margin-top: 5%;
+	text-align: center;
+}
+body{
+	background: whitesmoke;
+}
+.result{
+	color: teal;
+    font-style: oblique;
+    font-family: 'Lora';
+}
